@@ -1,0 +1,26 @@
+# Desafio de projeto GIT/GITHUB
+[Markdown](https://www.markdownguide.org)
+
+
+## No GIT
+1) Na Pasta clica em Git bash here
+2) No gitbash, escrever "git clone" e colar o caminho do repositorio copiado no Github
+3) Clicar em enter
+4) Será finalizado o processo
+
+
+No git bash, escrever cd e o nome do caminho do repositorio
+
+git status - verificar se está tudo ok
+
+Caso inclua novas pastas ou arquivos na Explorer, se clicar em git status, vai aparecer uma msg de erro.
+
+Digitar: "git add ." para incluir as novas pastar ou arquivos
+
+git status já mostrará que os arquivos estão ok
+
+
+
+Para fazer commit dos arquivos e allterações para a web digitar: git commit -m "Inclusão dos dados atualizados"
+Para subir todos os arquivos digitar: git push origin  
+
